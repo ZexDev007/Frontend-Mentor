@@ -1,0 +1,18 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+/QR-code-component/*.sketch
+/QR-code-component/*.fig
+
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+/QR-code-component/*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+/QR-code-component/DS_Store
+/QR-code-component/prettierignore
+/QR-code-component/*.md
+/QR-code-component/design
